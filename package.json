@@ -1,0 +1,24 @@
+{
+  "name": "es-promise-utilities",
+  "version": "1.0.0",
+  "description": "A collection of helper methods based on promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiranMantha/es-promise-utilities.git"
+  },
+  "keywords": [
+    "Promise",
+    "javascript",
+    "ES6-promise"
+  ],
+  "author": "KiranMantha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KiranMantha/es-promise-utilities/issues"
+  },
+  "homepage": "https://github.com/KiranMantha/es-promise-utilities#readme"
+}
